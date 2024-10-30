@@ -1,0 +1,93 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Professor CR Rao Road",
+                    "short_name": "Professor CR Rao Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Gachibowli",
+                    "short_name": "Gachibowli",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Hyderabad",
+                    "short_name": "Hyderabad",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Rangareddy",
+                    "short_name": "Rangareddy",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Telangana",
+                    "short_name": "TS",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "India",
+                    "short_name": "IN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "500032",
+                    "short_name": "500032",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Professor CR Rao Rd, Gachibowli, Hyderabad, Telangana 500032, India",
+            "geometry": {
+                "location": {
+                    "lat": 17.4448649,
+                    "lng": 78.34981379999999
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.4468437302915,
+                        "lng": 78.35202438029151
+                    },
+                    "southwest": {
+                        "lat": 17.4441457697085,
+                        "lng": 78.34932641970849
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJK_h_8QMKzjsRlrTemJvoAp0",
+            "plus_code": {
+                "compound_code": "C8VX+WW Gachibowli, Hyderabad, Telangana, India",
+                "global_code": "7J9WC8VX+WW"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "university"
+            ]
+        }
+    ],
+    "status": "OK"
+}
